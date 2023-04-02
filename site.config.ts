@@ -3,15 +3,15 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   // rootNotionPageId: 'niviki-com-t-do-t-i-ch-nh-10f5e54221eb4b059bc5b5305da949ba',
-  rootNotionPageId: 'Simple-Template-49955b133eb843bdb8665534ecfd844c',
+  rootNotionPageId: 'Kanban-learning-437600eab02b4ef4b5474c6b87a56654',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'NIVIKI.COM - TỰ DO TÀI CHÍNH',
-  domain: 'niviki.com',
-  author: 'Khoa Nguyen',
+  name: 'Hiếu Phan',
+  domain: 'hieu.phan',
+  author: 'Hiếu Phanß',
 
   // open graph metadata (optional)
   description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
